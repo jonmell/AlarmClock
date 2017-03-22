@@ -2,3 +2,4 @@ applications:
 - name: jm-my-unique-3-30
   memory: 128M
   buildpack: sdk-for-nodejs
+  host: unique-host-jm-3-31
